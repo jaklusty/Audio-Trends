@@ -283,3 +283,13 @@ ingest, hook and promote, each checked against the Python on a copy of the libra
 - Electron API docs for `protocol.handle`, `startDrag`, `will-navigate`, `setWindowOpenHandler`: https://github.com/electron/electron/tree/main/docs/api
 - ffmpeg-static download script and binaries: https://github.com/eugeneware/ffmpeg-static ; BtbN builds: https://github.com/BtbN/FFmpeg-Builds ; yt-dlp's own builds: https://github.com/yt-dlp/FFmpeg-Builds
 - Deno releases: https://github.com/denoland/deno/releases
+
+## Update, 10 October: decisions taken
+
+- ffmpeg: build our own LGPL ffmpeg in GitHub Actions. Done as `.github/workflows/ffmpeg.yml`
+  in the app repository.
+- Name: Soundbites.
+- Logo: a music symbol with a bite taken out of it. Four variants are in
+  `design/logo/` in the app repository for Jak to pick from.
+- App repository: `jaklusty/soundbites`, private.
+- Still open: a Windows machine or VM for Phase 4, and the library code and state files.
