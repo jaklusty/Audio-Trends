@@ -1,0 +1,871 @@
+{
+  "run": "2026-10-26",
+  "region": "UK",
+  "candidates": [
+    {
+      "title": "Chopin Nocturne No. 2 Piano Mono",
+      "artist": "moshimo sound design",
+      "search": "moshimo sound design Chopin Nocturne No. 2 Piano Mono",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "low",
+      "mood": [
+        "classical piano",
+        "nocturne",
+        "instrumental"
+      ],
+      "suits": "Solo mono piano recording of Chopin's Nocturne Op. 9 No. 2.",
+      "licence": "platform",
+      "notes": "#1 on Revid's weekly chart (26 Oct), rising x2.6. New to this feed; single source, its own sample, no TikTok use count."
+    },
+    {
+      "title": "Housewife",
+      "artist": "Tate McRae",
+      "search": "Tate McRae Housewife",
+      "platform": "both",
+      "direction": "rising",
+      "energy": "high",
+      "mood": [
+        "pop",
+        "confident",
+        "dance-pop"
+      ],
+      "suits": "Uptempo pop single with a confident, playful vocal.",
+      "licence": "platform",
+      "notes": "#2 and rising x1.4 on Revid's weekly chart (26 Oct), and among Revid's top sounds on 25 Oct per search extracts; top entry on SocialBee's Instagram songs list (21 Oct); CreatorDB (21 Oct) notes it at #1 on Spotify and Apple Music US but not yet charting on Reels. New to this feed; no use count."
+    },
+    {
+      "title": "Patient Zero",
+      "artist": "Taylor Swift",
+      "search": "Taylor Swift Patient Zero",
+      "platform": "both",
+      "direction": "rising",
+      "uses": 189000,
+      "energy": "medium",
+      "mood": [
+        "pop",
+        "vocal-led",
+        "new release"
+      ],
+      "suits": "Big new pop single with a hook built for lip-syncs.",
+      "licence": "platform",
+      "notes": "#1 with Heat 95, labelled rising, on CreatorDB (21 Oct, via search extracts); about 189K reels on Dash Social (19 Oct); 53K posts on Scott Social (19 Oct); Buffer's TikTok list (20 Oct). Four sources; Dash count is the largest published."
+    },
+    {
+      "title": "Dame Hombro",
+      "artist": "Bulin 47 & Kevin Wai & Breyco En Producidera",
+      "search": "Bulin 47 & Kevin Wai & Breyco En Producidera Dame Hombro",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "high",
+      "mood": [
+        "dembow",
+        "latin",
+        "party"
+      ],
+      "suits": "Fast Dominican dembow track with a chanted hook.",
+      "licence": "platform",
+      "notes": "#3 on Revid's weekly chart (26 Oct), rising x1.6. New to this feed; single source, its own sample."
+    },
+    {
+      "title": "it hurts, now that you're gone",
+      "artist": "i don't like mirrors",
+      "search": "i don't like mirrors it hurts, now that you're gone",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "low",
+      "mood": [
+        "sad",
+        "emotional",
+        "slow"
+      ],
+      "suits": "Slow, melancholy track about loss.",
+      "licence": "platform",
+      "notes": "#14 on Revid's weekly chart (26 Oct), rising x2.1, the second-fastest riser on the chart. New to this feed; single source, its own sample."
+    },
+    {
+      "title": "Halloween ・ cute horror song",
+      "artist": "PeriTune",
+      "search": "PeriTune Halloween ・ cute horror song",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "medium",
+      "mood": [
+        "halloween",
+        "cute",
+        "instrumental"
+      ],
+      "suits": "Playful, cute-spooky instrumental with a music-box feel.",
+      "licence": "platform",
+      "notes": "#5 on Revid's weekly chart (26 Oct), rising x1.4, down from #1 on 22 Oct; among Revid's top three on 25 Oct per search extracts. Single source, its own sample; Halloween-driven."
+    },
+    {
+      "title": "Zany Emote",
+      "artist": "CsCrafty",
+      "search": "CsCrafty Zany Emote",
+      "platform": "tiktok",
+      "direction": "rising",
+      "uses": 791000,
+      "energy": "high",
+      "mood": [
+        "game audio",
+        "meme",
+        "playful"
+      ],
+      "suits": "Playful game-emote clip (matched by Tokchart to 'Zany Nite' by Gamic Pop) used as a meme sound.",
+      "licence": "platform",
+      "notes": "#6 on Revid's weekly chart (26 Oct, listed as 'Zany Emote Fortnite'), rising x1.4, back on the weekly chart after sitting on the 30-day index on 22 Oct. Count of about 791K videos is Tokchart's daily list as seen 18 Oct; not reconfirmed."
+    },
+    {
+      "title": "Duck Walk Bye Loop",
+      "artist": "Tenderloin Tourist",
+      "search": "Tenderloin Tourist Duck Walk Bye Loop",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "medium",
+      "mood": [
+        "comedic",
+        "loop",
+        "quirky"
+      ],
+      "suits": "Short, quirky looping cue used as an exit or walk-off beat.",
+      "licence": "platform",
+      "notes": "#15 on Revid's weekly chart (26 Oct), rising x1.5. New to this feed; single source, its own sample."
+    },
+    {
+      "title": "Mere Wax",
+      "artist": "DJ BAI",
+      "search": "DJ BAI Mere Wax",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "medium",
+      "mood": [
+        "electronic",
+        "beat",
+        "instrumental"
+      ],
+      "suits": "Electronic instrumental beat.",
+      "licence": "platform",
+      "notes": "#1 on the list read from Metricool's UK TikTok top 10 (21 Oct, via search extracts); new since the 14 Oct list. Only one of the page's two UK lists surfaced. Single chart, no use count."
+    },
+    {
+      "title": "Rainbow Revolution",
+      "artist": "Adrian Rover",
+      "search": "Adrian Rover Rainbow Revolution",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "medium",
+      "mood": [
+        "upbeat",
+        "electronic",
+        "instrumental"
+      ],
+      "suits": "Bright, upbeat electronic instrumental.",
+      "licence": "platform",
+      "notes": "#2 on the list read from Metricool's UK TikTok top 10 (21 Oct, via search extracts); new since 14 Oct. Single chart, no use count."
+    },
+    {
+      "title": "Stylish JAZZ flowing in a restaurant",
+      "artist": "STAR DUST BGM",
+      "search": "STAR DUST BGM Stylish JAZZ flowing in a restaurant",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "low",
+      "mood": [
+        "jazz",
+        "lounge",
+        "instrumental"
+      ],
+      "suits": "Smooth lounge-jazz background instrumental.",
+      "licence": "platform",
+      "notes": "#3 on the list read from Metricool's UK TikTok top 10 (21 Oct, via search extracts); new since 14 Oct. Single chart, no use count."
+    },
+    {
+      "title": "Roast Reflections_mix",
+      "artist": "Edivieira",
+      "search": "Edivieira Roast Reflections_mix",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "low",
+      "mood": [
+        "coffeehouse",
+        "acoustic",
+        "instrumental"
+      ],
+      "suits": "Mellow coffeehouse-style instrumental.",
+      "licence": "platform",
+      "notes": "#4 on the list read from Metricool's UK TikTok top 10 (21 Oct, via search extracts); new since 14 Oct. Single chart, no use count."
+    },
+    {
+      "title": "Piano, positive, moving pop with strings",
+      "artist": "Kazuya Tamura",
+      "search": "Kazuya Tamura Piano, positive, moving pop with strings",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "medium",
+      "mood": [
+        "piano",
+        "strings",
+        "uplifting",
+        "instrumental"
+      ],
+      "suits": "Uplifting piano-and-strings pop instrumental.",
+      "licence": "platform",
+      "notes": "#5 on the list read from Metricool's UK TikTok top 10 (21 Oct, via search extracts); new since 14 Oct. Single chart, no use count."
+    },
+    {
+      "title": "Ain't It Fun",
+      "artist": "Paramore",
+      "search": "Paramore Ain't It Fun",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "high",
+      "mood": [
+        "pop-rock",
+        "funky",
+        "upbeat"
+      ],
+      "suits": "Upbeat, funk-tinged pop-rock song with a gospel-style chorus.",
+      "licence": "platform",
+      "notes": "#10 on the list read from Metricool's UK TikTok top 10 (21 Oct, via search extracts); new since 14 Oct. Single chart, no use count."
+    },
+    {
+      "title": "Coming Up Roses",
+      "artist": "Harry Styles",
+      "search": "Harry Styles Coming Up Roses",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "low",
+      "mood": [
+        "orchestral ballad",
+        "waltz",
+        "romantic"
+      ],
+      "suits": "Slow orchestral waltz ballad with strings and piano; suits romantic, slow-paced moments.",
+      "licence": "platform",
+      "notes": "#1 on TikTok's own US trending-songs page (week of 9–15 Oct, per search extracts, page about seven days old). Single source, US listing, no use count."
+    },
+    {
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "search": "Dua Lipa Training Season",
+      "platform": "reels",
+      "direction": "rising",
+      "energy": "high",
+      "mood": [
+        "dance-pop",
+        "disco",
+        "upbeat"
+      ],
+      "suits": "Upbeat disco-flavoured dance-pop song.",
+      "licence": "platform",
+      "notes": "Audio for Later's 'vlog timestamps' Reels trend, entry dated 23 Oct. New to this feed; single source, no use count."
+    },
+    {
+      "title": "Pump It",
+      "artist": "The Black Eyed Peas",
+      "search": "The Black Eyed Peas Pump It",
+      "platform": "reels",
+      "direction": "rising",
+      "energy": "high",
+      "mood": [
+        "hip-hop",
+        "surf-rock sample",
+        "hype"
+      ],
+      "suits": "High-energy hip-hop track built on a surf-guitar sample.",
+      "licence": "platform",
+      "notes": "Named in Later's Reels trends entry dated 23 Oct. New to this feed; single source, no use count."
+    },
+    {
+      "title": "Blue Moon",
+      "artist": "Zara Larsson",
+      "search": "Zara Larsson Blue Moon",
+      "platform": "reels",
+      "direction": "rising",
+      "energy": "medium",
+      "mood": [
+        "pop",
+        "dreamy",
+        "vocal"
+      ],
+      "suits": "Pop song with a dreamy vocal.",
+      "licence": "platform",
+      "notes": "Second entry on SocialBee's Instagram songs list (21 Oct), getting renewed attention after a new music video. New to this feed; single source, no use count."
+    },
+    {
+      "title": "Slime You Out",
+      "artist": "Drake",
+      "search": "Drake Slime You Out",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "low",
+      "mood": [
+        "hip-hop",
+        "r&b",
+        "moody"
+      ],
+      "suits": "Laid-back, moody hip-hop/R&B track with a quotable spoken-style line.",
+      "licence": "platform",
+      "notes": "Its 'October is all about me' line is the audio for Later's TikTok trend of that name (entry dated 16 Oct). New to this feed; single source, no use count."
+    },
+    {
+      "title": "Hello, October",
+      "artist": "Tung Tulip",
+      "search": "Tung Tulip Hello, October",
+      "platform": "tiktok",
+      "direction": "rising",
+      "uses": 143700,
+      "energy": "medium",
+      "mood": [
+        "seasonal",
+        "cheerful",
+        "acoustic"
+      ],
+      "suits": "Cheerful seasonal track used for recipes, autumn walks and handmade pieces.",
+      "licence": "platform",
+      "notes": "About 143.7K videos, labelled Rising and listed first on SocialPilot TikTok (third week of Oct, window 12–25 Oct, read 26 Oct). Single source; count unchanged since 19 Oct."
+    },
+    {
+      "title": "Where To Find Me",
+      "artist": "Cedar Creek Kitchen",
+      "search": "Cedar Creek Kitchen Where To Find Me",
+      "platform": "tiktok",
+      "direction": "rising",
+      "uses": 177600,
+      "energy": "low",
+      "mood": [
+        "acoustic",
+        "warm",
+        "seasonal"
+      ],
+      "suits": "Warm, gentle track used under cosy everyday footage.",
+      "licence": "platform",
+      "notes": "About 177.6K videos, labelled Rising, on SocialPilot TikTok (third week of Oct, window 12–25 Oct, read 26 Oct). Single source; count unchanged since 19 Oct."
+    },
+    {
+      "title": "DIP ON EM",
+      "artist": "SouthMemphisHypeman",
+      "search": "SouthMemphisHypeman DIP ON EM",
+      "platform": "tiktok",
+      "direction": "rising",
+      "uses": 128400,
+      "energy": "high",
+      "mood": [
+        "hip hop",
+        "hype",
+        "dance"
+      ],
+      "suits": "Hype-man hip hop track behind a simple one- or two-person dance.",
+      "licence": "platform",
+      "notes": "About 128.4K videos, labelled Rising, on SocialPilot TikTok (third week of Oct, window 12–25 Oct, read 26 Oct). Single source; count unchanged since 19 Oct."
+    },
+    {
+      "title": "Autumn Minute",
+      "artist": "Muddy River Line",
+      "search": "Muddy River Line Autumn Minute",
+      "platform": "tiktok",
+      "direction": "rising",
+      "uses": 78400,
+      "energy": "low",
+      "mood": [
+        "acoustic",
+        "seasonal",
+        "calm"
+      ],
+      "suits": "Calm seasonal track for autumn footage.",
+      "licence": "platform",
+      "notes": "About 78.4K videos, labelled Rising, on SocialPilot TikTok (third week of Oct, window 12–25 Oct, read 26 Oct). Single source."
+    },
+    {
+      "title": "Wyw my sweetie #JerseyClub (Slowed)",
+      "artist": "25Hzz & prod.nissi",
+      "search": "25Hzz & prod.nissi Wyw my sweetie #JerseyClub (Slowed)",
+      "platform": "tiktok",
+      "direction": "rising",
+      "uses": 38900,
+      "energy": "medium",
+      "mood": [
+        "jersey club",
+        "slowed",
+        "electronic"
+      ],
+      "suits": "Slowed Jersey club edit.",
+      "licence": "platform",
+      "notes": "About 38.9K videos, labelled Early, on SocialPilot TikTok (third week of Oct, window 12–25 Oct, read 26 Oct); #7 on Buffer's TikTok list (20 Oct). Two sources."
+    },
+    {
+      "title": "white rabbit's bells",
+      "artist": "Tomb Gazer",
+      "search": "Tomb Gazer white rabbit's bells",
+      "platform": "tiktok",
+      "direction": "rising",
+      "uses": 17500,
+      "energy": "low",
+      "mood": [
+        "music box",
+        "eerie",
+        "Halloween",
+        "instrumental"
+      ],
+      "suits": "Eerie music-box bed used under creepy-fact text and storytimes.",
+      "licence": "platform",
+      "notes": "About 17.5K videos, labelled Early, on SocialPilot TikTok (third week of Oct, window 12–25 Oct, read 26 Oct). Single source, small count."
+    },
+    {
+      "title": "STORM II",
+      "artist": "GENER8ION, Yung Lean",
+      "search": "GENER8ION, Yung Lean STORM II",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 90000,
+      "energy": "medium",
+      "mood": [
+        "electronic",
+        "rap",
+        "moody"
+      ],
+      "suits": "Moody electronic track with a Yung Lean vocal.",
+      "licence": "platform",
+      "notes": "#5 with Heat 48, rising, on CreatorDB (21 Oct, via search extracts); about 90K reels, labelled Rising, on SocialPilot Reels (window 12–25 Oct, read 26 Oct); Buffer's Instagram list (14 Oct). Three sources."
+    },
+    {
+      "title": "Last Train to London",
+      "artist": "Electric Light Orchestra",
+      "search": "Electric Light Orchestra Last Train to London",
+      "platform": "reels",
+      "direction": "rising",
+      "energy": "medium",
+      "mood": [
+        "disco-rock",
+        "classic",
+        "groove"
+      ],
+      "suits": "Disco-tinged classic rock used for simple autumn outfit clips.",
+      "licence": "platform",
+      "notes": "Buffer's Instagram list (14 Oct); SocialPilot Reels (window 12–25 Oct, read 26 Oct) lists a 'Last Train to London' credited to Rikas at about 82K reels, Rising, which may be a cover; count not attached here for that reason."
+    },
+    {
+      "title": "Autumn Journey",
+      "artist": "Andrea Vanzo",
+      "search": "Andrea Vanzo Autumn Journey",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 68000,
+      "energy": "low",
+      "mood": [
+        "piano",
+        "calm",
+        "seasonal",
+        "instrumental"
+      ],
+      "suits": "Calm, mellow autumn instrumental.",
+      "licence": "platform",
+      "notes": "About 68K reels, labelled Rising, on SocialPilot Reels (window 12–25 Oct, read 26 Oct); Buffer's Instagram list (14 Oct). Two sources."
+    },
+    {
+      "title": "My Own Universe",
+      "artist": "PattiJ North",
+      "search": "PattiJ North My Own Universe",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 33000,
+      "energy": "medium",
+      "mood": [
+        "pop",
+        "vocal-led"
+      ],
+      "suits": "Pop song.",
+      "licence": "platform",
+      "notes": "About 33K reels, labelled Rising, on SocialPilot Reels (window 12–25 Oct, read 26 Oct); Buffer's Instagram list (14 Oct); CreatorDB rising on 21 Oct per the last run. Two-plus sources."
+    },
+    {
+      "title": "Girls on Film (2010 Remaster)",
+      "artist": "Duran Duran",
+      "search": "Duran Duran Girls on Film (2010 Remaster)",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 33000,
+      "energy": "high",
+      "mood": [
+        "new wave",
+        "80s",
+        "vocal-led"
+      ],
+      "suits": "1980s new-wave classic.",
+      "licence": "platform",
+      "notes": "About 33K reels, labelled Rising, on SocialPilot Reels (window 12–25 Oct, read 26 Oct). Single fresh source; restricted for business accounts per SocialPilot."
+    },
+    {
+      "title": "WINDOWS IN BRAZIL (Sped Up)",
+      "artist": "VHM4D, ahh",
+      "search": "VHM4D, ahh WINDOWS IN BRAZIL (Sped Up)",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 6999,
+      "energy": "high",
+      "mood": [
+        "sped up",
+        "electronic"
+      ],
+      "suits": "Sped-up electronic edit.",
+      "licence": "platform",
+      "notes": "About 7K reels, labelled Rising, on SocialPilot Reels (window 12–25 Oct, read 26 Oct); Buffer's Instagram list (14 Oct). Small count, two sources."
+    },
+    {
+      "title": "Be OK",
+      "artist": "Ingrid Michaelson",
+      "search": "Ingrid Michaelson Be OK",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "medium",
+      "mood": [
+        "pop",
+        "upbeat",
+        "vocal-led"
+      ],
+      "suits": "Upbeat pop song set against on-screen confessions of stress.",
+      "licence": "platform",
+      "notes": "Buffer's TikTok list (20 Oct); New Engen's TikTok trends (14 Oct); Later's 'I just want to be OK' TikTok trend. Two-plus sources, no use count."
+    },
+    {
+      "title": "Ramalama (Bang Bang)",
+      "artist": "Róisín Murphy",
+      "search": "Róisín Murphy Ramalama (Bang Bang)",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "uses": 456200,
+      "energy": "high",
+      "mood": [
+        "electro-pop",
+        "dance",
+        "punchy drop"
+      ],
+      "suits": "Punchy electro-pop with a hard drum drop used as a reveal cue.",
+      "licence": "platform",
+      "notes": "#17 on Revid's weekly chart (26 Oct), marked Cooling, down from #4 rising on 22 Oct; #1 on Buffer's TikTok list (20 Oct); about 456.2K videos, labelled Peak, on SocialPilot TikTok (window 12–25 Oct, read 26 Oct). Still widely used for Halloween costume walks, now flattening."
+    },
+    {
+      "title": "we fell in love in october",
+      "artist": "girl in red",
+      "search": "girl in red we fell in love in october",
+      "platform": "both",
+      "direction": "peaking",
+      "uses": 2000000,
+      "energy": "low",
+      "mood": [
+        "indie pop",
+        "bedroom pop",
+        "seasonal",
+        "vocal-led"
+      ],
+      "suits": "Soft indie-pop love song that resurfaces every October.",
+      "licence": "platform",
+      "notes": "About 2M videos, labelled Peak, on SocialPilot TikTok and about 1M reels on SocialPilot Reels (window 12–25 Oct, read 26 Oct); #3 with Heat 65, 'returning', on CreatorDB (21 Oct). Three sources."
+    },
+    {
+      "title": "Nicole Kidman",
+      "artist": "ADÉLA",
+      "search": "ADÉLA Nicole Kidman",
+      "platform": "both",
+      "direction": "peaking",
+      "uses": 328000,
+      "energy": "medium",
+      "mood": [
+        "pop",
+        "vocal-led",
+        "lyric-driven"
+      ],
+      "suits": "Vocal-led pop where the lyric is the point.",
+      "licence": "platform",
+      "notes": "#2 with Heat 78, labelled peaking, on CreatorDB (21 Oct, via search extracts); about 328K reels on Dash Social (19 Oct); #2 on TikTok's own US trending-songs page (week of 9–15 Oct). Three sources."
+    },
+    {
+      "title": "Angel Of My Dreams",
+      "artist": "JADE",
+      "search": "JADE Angel Of My Dreams",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "high",
+      "mood": [
+        "pop",
+        "dance",
+        "bold"
+      ],
+      "suits": "Bold, theatrical dance-pop single.",
+      "licence": "platform",
+      "notes": "Among Revid's top three sounds on 25 Oct per search extracts; #10 on Revid's weekly chart (26 Oct), marked Cooling. New to this feed; single source, its own sample."
+    },
+    {
+      "title": "Suzuki (from GTAVI: The Album)",
+      "artist": "Fuerza Regida & Grand Theft Auto VI",
+      "search": "Fuerza Regida & Grand Theft Auto VI Suzuki (from GTAVI: The Album)",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "high",
+      "mood": [
+        "regional mexican",
+        "corridos",
+        "swagger"
+      ],
+      "suits": "Regional Mexican corridos-style track from a video-game soundtrack.",
+      "licence": "platform",
+      "notes": "#4 on Revid's weekly chart (26 Oct), marked Steady. New to this feed; single source, its own sample."
+    },
+    {
+      "title": "Paper Moon Static",
+      "artist": "Marnie Cusk",
+      "search": "Marnie Cusk Paper Moon Static",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "medium",
+      "mood": [
+        "chart entry",
+        "genre unverified"
+      ],
+      "suits": "Fast-reused TikTok sound with no published description.",
+      "licence": "platform",
+      "notes": "#7 (Steady) and again at #12 (Cooling, −61%) on Revid's weekly chart (26 Oct), which lists it twice. Single source, its own sample."
+    },
+    {
+      "title": "Saxophones getting louder - Sped Up",
+      "artist": "AntonioVivald",
+      "search": "AntonioVivald Saxophones getting louder - Sped Up",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "high",
+      "mood": [
+        "sped up",
+        "saxophone",
+        "meme",
+        "build"
+      ],
+      "suits": "Sped-up saxophone build used as a meme sound.",
+      "licence": "platform",
+      "notes": "#8 on Revid's weekly chart (26 Oct), marked Steady, after Cooling at #3 on 22 Oct. Single source, its own sample."
+    },
+    {
+      "title": "Sunset in Girona",
+      "artist": "Noah Preminger & Max Light",
+      "search": "Noah Preminger & Max Light Sunset in Girona",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "medium",
+      "mood": [
+        "jazz",
+        "sax and guitar duo",
+        "instrumental",
+        "warm"
+      ],
+      "suits": "Warm, conversational tenor sax and guitar jazz duo with a cosy feel.",
+      "licence": "platform",
+      "notes": "#1 on Metricool's global TikTok chart (19 Oct, via search extracts). Tokchart's 12.9M monthly figure could not be reconfirmed this run, so no count is attached. Single source."
+    },
+    {
+      "title": "Espresso Soul",
+      "artist": "Edivieira",
+      "search": "Edivieira Espresso Soul",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "medium",
+      "mood": [
+        "lounge",
+        "soul",
+        "instrumental"
+      ],
+      "suits": "Smooth lounge-soul instrumental.",
+      "licence": "platform",
+      "notes": "#9 on the list read from Metricool's UK TikTok top 10 (21 Oct) and #6 on its global chart (19 Oct), via search extracts. Two charts from one publisher."
+    },
+    {
+      "title": "Bounce it",
+      "artist": "Biggs money",
+      "search": "Biggs money Bounce it",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "uses": 260500,
+      "energy": "high",
+      "mood": [
+        "hip hop",
+        "bouncy",
+        "dance"
+      ],
+      "suits": "Bouncy hip hop track.",
+      "licence": "platform",
+      "notes": "About 260.5K videos, labelled Peak, on SocialPilot TikTok (third week of Oct, window 12–25 Oct, read 26 Oct). Single source."
+    },
+    {
+      "title": "October",
+      "artist": "Adrián Berenguer",
+      "search": "Adrián Berenguer October",
+      "platform": "reels",
+      "direction": "peaking",
+      "uses": 811000,
+      "energy": "low",
+      "mood": [
+        "instrumental",
+        "seasonal",
+        "calm"
+      ],
+      "suits": "Seasonal instrumental used under autumn footage.",
+      "licence": "platform",
+      "notes": "About 811K reels, labelled Peak, on SocialPilot Reels (window 12–25 Oct, read 26 Oct); CreatorDB peaking (21 Oct). Two sources."
+    },
+    {
+      "title": "My October",
+      "artist": "The Folks",
+      "search": "The Folks My October",
+      "platform": "reels",
+      "direction": "peaking",
+      "uses": 313000,
+      "energy": "low",
+      "mood": [
+        "acoustic",
+        "seasonal",
+        "warm"
+      ],
+      "suits": "Warm seasonal backdrop for autumn posts.",
+      "licence": "platform",
+      "notes": "About 313K reels, labelled Peak, on SocialPilot Reels (window 12–25 Oct, read 26 Oct); Buffer's Instagram list (14 Oct). Two sources."
+    },
+    {
+      "title": "Goo Goo Muck",
+      "artist": "The Cramps",
+      "search": "The Cramps Goo Goo Muck",
+      "platform": "reels",
+      "direction": "peaking",
+      "uses": 305000,
+      "energy": "medium",
+      "mood": [
+        "garage rock",
+        "psychobilly",
+        "Halloween",
+        "vocal-led"
+      ],
+      "suits": "Twangy psychobilly garage-rock song with a spooky edge.",
+      "licence": "platform",
+      "notes": "About 305K reels, labelled Peak, on SocialPilot Reels (window 12–25 Oct, read 26 Oct); Buffer's Instagram list (14 Oct). Two sources; Halloween-driven."
+    },
+    {
+      "title": "Hello October",
+      "artist": "Sugar Lime Blue",
+      "search": "Sugar Lime Blue Hello October",
+      "platform": "reels",
+      "direction": "peaking",
+      "uses": 200000,
+      "energy": "medium",
+      "mood": [
+        "upbeat",
+        "cheerful",
+        "seasonal"
+      ],
+      "suits": "Cheerful, upbeat seasonal track for colourful autumn content.",
+      "licence": "platform",
+      "notes": "About 200K reels, labelled Peak, listed first on SocialPilot Reels (window 12–25 Oct, read 26 Oct); 187K posts on Scott Social (19 Oct). Two-plus sources."
+    },
+    {
+      "title": "Upside Down",
+      "artist": "Diana Ross",
+      "search": "Diana Ross Upside Down",
+      "platform": "both",
+      "direction": "peaking",
+      "uses": 127000,
+      "energy": "high",
+      "mood": [
+        "disco",
+        "classic",
+        "groove"
+      ],
+      "suits": "Disco classic used for flip and hand-transition reveals.",
+      "licence": "platform",
+      "notes": "#4 with Heat 55, peaking, on CreatorDB (21 Oct); 127K posts on Scott Social (19 Oct); on Buffer's TikTok list (20 Oct) and Instagram list (14 Oct). Three-plus sources."
+    },
+    {
+      "title": "Someday We Will Dream About Today",
+      "artist": "The Sways",
+      "search": "The Sways Someday We Will Dream About Today",
+      "platform": "reels",
+      "direction": "peaking",
+      "uses": 213000,
+      "energy": "medium",
+      "mood": [
+        "indie",
+        "nostalgic",
+        "vocal-led"
+      ],
+      "suits": "Nostalgic indie song used for season-end recaps.",
+      "licence": "platform",
+      "notes": "213K posts on Scott Social (19 Oct), unchanged since 16 Oct. Single fresh source; count flat."
+    },
+    {
+      "title": "Autumn Colors",
+      "artist": "LuLuMusic",
+      "search": "LuLuMusic Autumn Colors",
+      "platform": "reels",
+      "direction": "peaking",
+      "uses": 86000,
+      "energy": "low",
+      "mood": [
+        "instrumental",
+        "acoustic",
+        "seasonal",
+        "warm"
+      ],
+      "suits": "Relaxed acoustic instrumental for cosy autumn footage.",
+      "licence": "platform",
+      "notes": "About 86K reels on Dash Social (19 Oct); 55K posts on Scott Social (19 Oct), cleared for business use; New Engen (14 Oct). Three sources."
+    },
+    {
+      "title": "What You Waiting For?",
+      "artist": "Gwen Stefani",
+      "search": "Gwen Stefani What You Waiting For?",
+      "platform": "reels",
+      "direction": "peaking",
+      "uses": 111000,
+      "energy": "high",
+      "mood": [
+        "pop",
+        "2000s",
+        "upbeat",
+        "vocal-led"
+      ],
+      "suits": "Upbeat 2000s pop with a 'take the chance' lyric.",
+      "licence": "platform",
+      "notes": "111K posts on Scott Social (19 Oct); Buffer's Instagram list (14 Oct); Later's 'Take that chance' trend. Two-plus sources; count flat."
+    },
+    {
+      "title": "The Killing Moon (Remastered Version)",
+      "artist": "Echo & The Bunnymen",
+      "search": "Echo & The Bunnymen The Killing Moon (Remastered Version)",
+      "platform": "tiktok",
+      "direction": "fading",
+      "bpm": 93,
+      "energy": "medium",
+      "mood": [
+        "post-punk",
+        "moody",
+        "strings",
+        "vocal-led"
+      ],
+      "suits": "Big, moody post-punk with strings, acoustic guitar and a central lead vocal.",
+      "licence": "platform",
+      "notes": "#1 on Metricool's UK TikTok list on 14 Oct but absent from the list read for 21 Oct (via search extracts). Halloween-driven; fading."
+    },
+    {
+      "title": "Bow Bow Bow",
+      "artist": "Zeddy Will",
+      "search": "Zeddy Will Bow Bow Bow",
+      "platform": "tiktok",
+      "direction": "fading",
+      "energy": "high",
+      "mood": [
+        "hip hop",
+        "dance",
+        "shouted hook"
+      ],
+      "suits": "Bouncy dance track with a shouted hook.",
+      "licence": "platform",
+      "notes": "In the top 10 of TikTok's own US trending-songs page (about seven days old, per search extracts); off SocialPilot's current list and Revid's weekly chart. Filed fading."
+    }
+  ]
+}
