@@ -1,0 +1,845 @@
+{
+  "run": "2026-11-05",
+  "region": "UK",
+  "candidates": [
+    {
+      "title": "Housewife",
+      "artist": "Tate McRae",
+      "search": "Tate McRae Housewife",
+      "platform": "both",
+      "direction": "rising",
+      "uses": 313700,
+      "energy": "high",
+      "mood": [
+        "pop",
+        "confident",
+        "dance-pop"
+      ],
+      "suits": "Uptempo pop single with a confident, playful vocal.",
+      "licence": "platform",
+      "notes": "#1 on CreatorDB (week of 4 Nov, Heat 87 per search extract); #2 on Tokchart US (3 Nov) and UK (1 Nov); about 313.7K videos on SocialPilot TikTok (27 Oct–5 Nov) and 190K Reels on SocialPilot Reels (31 Oct–10 Nov); about 221K Reels on Postdom (2 Nov) and 247.5K on Kabo (4 Nov); in Revid's 30-day index (4 Nov). Six-plus sources; strongest-evidenced sound again."
+    },
+    {
+      "title": "Paper Moon Static",
+      "artist": "Marnie Cusk",
+      "search": "Marnie Cusk Paper Moon Static",
+      "platform": "tiktok",
+      "direction": "rising",
+      "uses": 1000000,
+      "energy": "medium",
+      "mood": [
+        "lo-fi",
+        "dreamy",
+        "atmospheric"
+      ],
+      "suits": "Hazy, atmospheric track with a soft, nostalgic feel.",
+      "licence": "platform",
+      "notes": "#1 on Tokchart's worldwide sounds homepage (5 Nov, via search extract) at about +100K videos a day, up from #5 (1 Nov) and #3 (2 Nov); top of Revid's 30-day most-reused index (4 Nov). About 1M videos on Tokchart US (29 Oct). Up from peaking last run; the homepage extract carried an odd age stamp, so treat the exact rank as a snapshot."
+    },
+    {
+      "title": "Angel Of My Dreams",
+      "artist": "JADE",
+      "search": "JADE Angel Of My Dreams",
+      "platform": "both",
+      "direction": "rising",
+      "uses": 241000,
+      "energy": "high",
+      "mood": [
+        "pop",
+        "dance",
+        "bold"
+      ],
+      "suits": "Bold, theatrical dance-pop single.",
+      "licence": "platform",
+      "notes": "About 241K Reels on Postdom (2–8 Nov, counts read 2 Nov); 211K Reels (Rising, #2) on SocialPilot Reels (31 Oct–10 Nov); 78.6K videos (Rising) on SocialPilot TikTok (27 Oct–5 Nov); #4 on Tokchart US (3 Nov). Four sources; still climbing."
+    },
+    {
+      "title": "Ramalama (Bang Bang)",
+      "artist": "Róisín Murphy",
+      "search": "Róisín Murphy Ramalama (Bang Bang)",
+      "platform": "both",
+      "direction": "peaking",
+      "uses": 564000,
+      "energy": "high",
+      "mood": [
+        "electronic",
+        "dance",
+        "dramatic"
+      ],
+      "suits": "Punchy electronic dance track with a dramatic, theatrical vocal.",
+      "licence": "platform",
+      "notes": "#1 on Tokchart US (3 Nov) and Tokchart UK (1 Nov, about +24.2K videos a day, about 564K total); #3 on Tokchart worldwide songs (2 Nov); #2 on New Engen's Instagram audio list (updated 2 Nov) and on Metricool's Instagram list (2 Nov). Daily gains dropped to about +8K on Tokchart's 5 Nov homepage, so peaking after the Halloween costume-walk trend."
+    },
+    {
+      "title": "Dame Hombro",
+      "artist": "Bulin 47 & Kevin Wai & Breyco En Producidera",
+      "search": "Bulin 47 & Kevin Wai & Breyco En Producidera Dame Hombro",
+      "platform": "both",
+      "direction": "rising",
+      "uses": 184000,
+      "energy": "high",
+      "mood": [
+        "dembow",
+        "latin",
+        "playful"
+      ],
+      "suits": "Playful dembow track with a bouncy, danceable beat.",
+      "licence": "platform",
+      "notes": "About 184K videos (Rising) on SocialPilot TikTok (27 Oct–5 Nov); 162K Reels on Postdom (2 Nov); 137K Reels (Rising) on SocialPilot Reels (31 Oct–10 Nov), tied to a shoulder-shimmy dance. Three sources."
+    },
+    {
+      "title": "All I Want for Christmas Is You",
+      "artist": "Mariah Carey",
+      "search": "Mariah Carey All I Want for Christmas Is You",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 5800000,
+      "energy": "high",
+      "mood": [
+        "christmas",
+        "pop",
+        "festive"
+      ],
+      "suits": "Classic upbeat Christmas pop song.",
+      "licence": "platform",
+      "notes": "#2 on CreatorDB (week of 4 Nov); about 5.8M Reels marked Trending on Postdom (2 Nov) and on SocialPilot Reels (31 Oct–10 Nov, cumulative); on Buffer's November list (3 Nov). Four sources; seasonal climb now under way."
+    },
+    {
+      "title": "Achchi Lagti Ho",
+      "artist": "Udit Narayan, Kavita Krishnamurthy",
+      "search": "Udit Narayan, Kavita Krishnamurthy Achchi Lagti Ho",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 4000000,
+      "energy": "medium",
+      "mood": [
+        "bollywood",
+        "romantic",
+        "duet"
+      ],
+      "suits": "Romantic Hindi film duet with a gentle, melodic feel.",
+      "licence": "platform",
+      "notes": "#1 on Kabo's Instagram audio board (4 Nov) with about 4M Reels and about +21.7K a day. New to this feed; single source, and Kabo says its board is a sample, not Instagram's chart."
+    },
+    {
+      "title": "BbY WOW",
+      "artist": "KAROL G, Judeline, rusowsky",
+      "search": "KAROL G, Judeline, rusowsky BbY WOW",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 1300000,
+      "energy": "medium",
+      "mood": [
+        "latin",
+        "pop",
+        "sultry"
+      ],
+      "suits": "Smooth Latin pop track with layered vocals.",
+      "licence": "platform",
+      "notes": "#2 on Kabo's Instagram audio board (4 Nov) with about 1.3M Reels and about +18.9K in 24 hours. New to this feed; single source (sampled board)."
+    },
+    {
+      "title": "Peli De Terror",
+      "artist": "THE FAVORITES, Køddy G",
+      "search": "THE FAVORITES, Køddy G Peli De Terror",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "high",
+      "mood": [
+        "latin",
+        "party",
+        "horror-themed"
+      ],
+      "suits": "Uptempo Latin party track with a horror-film theme.",
+      "licence": "platform",
+      "notes": "#1 on Tokchart's worldwide songs chart (2 Nov, via search extracts). New to this feed; single source, no count surfaced; horror-themed, so may cool after Halloween."
+    },
+    {
+      "title": "Doja",
+      "artist": "Central Cee",
+      "search": "Central Cee Doja",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "high",
+      "mood": [
+        "uk rap",
+        "drill",
+        "confident"
+      ],
+      "suits": "Short, punchy UK rap track.",
+      "licence": "platform",
+      "notes": "#3 on Tokchart US (3 Nov, via search extracts). New to this feed; single source, no count surfaced."
+    },
+    {
+      "title": "Patient Zero",
+      "artist": "Taylor Swift",
+      "search": "Taylor Swift Patient Zero",
+      "platform": "both",
+      "direction": "peaking",
+      "uses": 53000,
+      "energy": "medium",
+      "mood": [
+        "pop",
+        "catchy",
+        "storytelling"
+      ],
+      "suits": "Mid-tempo pop single with a hooky chorus.",
+      "licence": "platform",
+      "notes": "#3 on CreatorDB (week of 4 Nov), down from #1 for three weeks; #1 with about 53K Reels on New Engen's Instagram list (updated 2 Nov); on Buffer's November list (3 Nov); New Engen's TikTok page ties it to a wedding trend. Four sources; slipping from the top."
+    },
+    {
+      "title": "Nicole Kidman",
+      "artist": "ADÉLA",
+      "search": "ADÉLA Nicole Kidman",
+      "platform": "reels",
+      "direction": "peaking",
+      "energy": "medium",
+      "mood": [
+        "pop",
+        "glamorous",
+        "playful"
+      ],
+      "suits": "Glossy pop track with a playful, glamorous tone.",
+      "licence": "platform",
+      "notes": "Marked Trending with about 82K Reels on Postdom (2 Nov); about 550K Reels on Kabo (4 Nov); #4 on New Engen's Instagram list (2 Nov); on Buffer's November list (3 Nov). The two counts disagree widely, so none is attached; holding rather than climbing."
+    },
+    {
+      "title": "Pump It",
+      "artist": "The Black Eyed Peas",
+      "search": "The Black Eyed Peas Pump It",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 682000,
+      "energy": "high",
+      "mood": [
+        "hip-hop",
+        "party",
+        "energetic"
+      ],
+      "suits": "High-energy party hip-hop track built on a surf-guitar sample.",
+      "licence": "platform",
+      "notes": "About 682K Reels on Postdom (2 Nov); on Buffer's November Instagram list (3 Nov). Two sources; back after last appearing on 26 Oct."
+    },
+    {
+      "title": "Upside Down",
+      "artist": "Diana Ross",
+      "search": "Diana Ross Upside Down",
+      "platform": "both",
+      "direction": "rising",
+      "energy": "medium",
+      "mood": [
+        "disco",
+        "funk",
+        "feel-good"
+      ],
+      "suits": "Classic disco-funk track with a bright groove.",
+      "licence": "platform",
+      "notes": "#7 on Tokchart's worldwide songs chart (2 Nov) as 'Upside Down (Original CHIC Mix)', up about 12 places; on Buffer's November Instagram list (3 Nov). Two sources; back since 29 Oct."
+    },
+    {
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "search": "Michael Jackson Thriller",
+      "platform": "both",
+      "direction": "fading",
+      "energy": "high",
+      "mood": [
+        "pop",
+        "halloween",
+        "funk"
+      ],
+      "suits": "Classic Halloween pop-funk track.",
+      "licence": "platform",
+      "notes": "#2 on Tokchart worldwide songs (2 Nov) and #5 on Tokchart US (3 Nov); #1 on Metricool's Instagram list (2 Nov), which notes Halloween audio is losing ground. Three sources; seasonal, now past its moment."
+    },
+    {
+      "title": "Coming Up Roses",
+      "artist": "Harry Styles",
+      "search": "Harry Styles Coming Up Roses",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "uses": 407900,
+      "energy": "low",
+      "mood": [
+        "pop",
+        "soft",
+        "sentimental"
+      ],
+      "suits": "Soft, sentimental pop ballad.",
+      "licence": "platform",
+      "notes": "The trending audio is an 'original sound' by creator 'secret' carrying a clip of this song for the 'I'm so sorry' carousel: about 407.9K videos, now labelled Peak, on SocialPilot TikTok (27 Oct–5 Nov). Single fresh source; was rising last run."
+    },
+    {
+      "title": "Purple Rain",
+      "artist": "Prince",
+      "search": "Prince Purple Rain",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "uses": 434600,
+      "energy": "low",
+      "mood": [
+        "rock",
+        "ballad",
+        "guitar"
+      ],
+      "suits": "Slow, emotional rock ballad led by guitar.",
+      "licence": "platform",
+      "notes": "The trending audio is an 'original sound' by creator Harrison carrying a guitar clip of this song: about 434.6K videos (Peak) on SocialPilot TikTok (27 Oct–5 Nov); 'Original audio by Harrison' #4 on Tokchart UK (1 Nov). Two sources."
+    },
+    {
+      "title": "November Rain",
+      "artist": "Guns N' Roses",
+      "search": "Guns N' Roses November Rain",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 322000,
+      "energy": "medium",
+      "mood": [
+        "rock",
+        "epic",
+        "ballad"
+      ],
+      "suits": "Epic rock ballad with piano and guitar solos.",
+      "licence": "platform",
+      "notes": "About 322K Reels on SocialPilot Reels (31 Oct–10 Nov); #13 with Heat 43 on CreatorDB (week of 4 Nov); on Buffer's November list (3 Nov). Three sources; seasonal return."
+    },
+    {
+      "title": "Underneath the Tree",
+      "artist": "Kelly Clarkson",
+      "search": "Kelly Clarkson Underneath the Tree",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 451000,
+      "energy": "high",
+      "mood": [
+        "christmas",
+        "pop",
+        "festive"
+      ],
+      "suits": "Bright, uptempo Christmas pop song.",
+      "licence": "platform",
+      "notes": "About 451K Reels on SocialPilot Reels (31 Oct–10 Nov, cumulative); on Buffer's November list (3 Nov). Two sources."
+    },
+    {
+      "title": "Santa Tell Me",
+      "artist": "Ariana Grande",
+      "search": "Ariana Grande Santa Tell Me",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 571000,
+      "energy": "medium",
+      "mood": [
+        "christmas",
+        "pop",
+        "playful"
+      ],
+      "suits": "Playful mid-tempo Christmas pop song.",
+      "licence": "platform",
+      "notes": "About 571K Reels on SocialPilot Reels (31 Oct–10 Nov, cumulative), used as a countdown sound. Single source."
+    },
+    {
+      "title": "Be OK",
+      "artist": "Ingrid Michaelson",
+      "search": "Ingrid Michaelson Be OK",
+      "platform": "both",
+      "direction": "rising",
+      "energy": "medium",
+      "mood": [
+        "indie pop",
+        "upbeat",
+        "ironic"
+      ],
+      "suits": "Bouncy indie-pop track with a cheerful, ukulele-style feel.",
+      "licence": "platform",
+      "notes": "#3 on New Engen's Instagram audio list (updated 2 Nov) for the 'acting fine' format, and named among New Engen's November TikTok trends. Single publisher, no count; back since 26 Oct."
+    },
+    {
+      "title": "Stop the Wedding!",
+      "artist": "Ashe",
+      "search": "Ashe Stop the Wedding!",
+      "platform": "reels",
+      "direction": "peaking",
+      "energy": "medium",
+      "mood": [
+        "pop",
+        "dramatic",
+        "storytelling"
+      ],
+      "suits": "Dramatic pop single with a storytelling lyric.",
+      "licence": "platform",
+      "notes": "#5 on New Engen's Instagram audio list (updated 2 Nov), used for wedding-regret carousels. Single source, no count; last published 19 Oct."
+    },
+    {
+      "title": "BODYPAINTING",
+      "artist": "Emilia",
+      "search": "Emilia BODYPAINTING",
+      "platform": "reels",
+      "direction": "rising",
+      "energy": "high",
+      "mood": [
+        "pop",
+        "dance",
+        "upbeat"
+      ],
+      "suits": "Uptempo dance-pop track.",
+      "licence": "platform",
+      "notes": "On Metricool's Instagram songs list (2 Nov, via search extracts), position not shown. New to this feed; single source, no count."
+    },
+    {
+      "title": "Shadow Spells",
+      "artist": "Theo Burntwood",
+      "search": "Theo Burntwood Shadow Spells",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "medium",
+      "mood": [
+        "atmospheric",
+        "dark",
+        "instrumental"
+      ],
+      "suits": "Moody, atmospheric sound.",
+      "licence": "platform",
+      "notes": "#4 on Tokchart's worldwide sounds homepage (5 Nov, via search extract). New to this feed; single source, no count; snapshot hedged."
+    },
+    {
+      "title": "Famous Johann Strauss II's The Blue Danube",
+      "artist": "Alessandro Vieri",
+      "search": "Alessandro Vieri Famous Johann Strauss II's The Blue Danube",
+      "platform": "tiktok",
+      "direction": "rising",
+      "energy": "low",
+      "mood": [
+        "classical",
+        "waltz",
+        "orchestral"
+      ],
+      "suits": "Classical orchestral waltz.",
+      "licence": "platform",
+      "notes": "#2 by creators using it in Revid's sample (4 Nov); Revid's figures count its own sample, not TikTok totals. New to this feed; single source."
+    },
+    {
+      "title": "BLUE WATER CANDY",
+      "artist": "DJ Allanzinho JP",
+      "search": "DJ Allanzinho JP BLUE WATER CANDY",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "high",
+      "mood": [
+        "funk",
+        "brazilian",
+        "bass"
+      ],
+      "suits": "Bass-heavy Brazilian funk track.",
+      "licence": "platform",
+      "notes": "Among the most-reused songs in Revid's 30-day index (4 Nov). Single source, no count; last published 19 Oct."
+    },
+    {
+      "title": "H4UNT",
+      "artist": "baldgirl",
+      "search": "baldgirl H4UNT",
+      "platform": "tiktok",
+      "direction": "rising",
+      "uses": 117000,
+      "energy": "high",
+      "mood": [
+        "dark",
+        "bass",
+        "transition"
+      ],
+      "suits": "Dark, bass-heavy sound built for transitions.",
+      "licence": "platform",
+      "notes": "About 117K videos (Rising) on SocialPilot TikTok (27 Oct–5 Nov), used for costume-loading transitions. Single source, count unchanged since last run; Halloween-linked, so likely to cool."
+    },
+    {
+      "title": "MAFIA",
+      "artist": "Soothewave",
+      "search": "Soothewave MAFIA",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "uses": 1000000,
+      "energy": "medium",
+      "mood": [
+        "dark",
+        "cinematic",
+        "trap"
+      ],
+      "suits": "Dark, cinematic beat with a tense mood.",
+      "licence": "platform",
+      "notes": "#8 on Tokchart UK (1 Nov) with about 1M videos; off the 5 Nov worldwide top five. Growth has slowed since 29 Oct; single publisher."
+    },
+    {
+      "title": "Goo Goo Muck",
+      "artist": "The Cramps",
+      "search": "The Cramps Goo Goo Muck",
+      "platform": "both",
+      "direction": "fading",
+      "energy": "medium",
+      "mood": [
+        "rockabilly",
+        "halloween",
+        "garage rock"
+      ],
+      "suits": "Spooky garage-rockabilly track.",
+      "licence": "platform",
+      "notes": "#4 on Tokchart worldwide songs (2 Nov); on Metricool's Instagram list (2 Nov), which says Halloween audio is losing ground. Two sources; now past its moment."
+    },
+    {
+      "title": "Ghostbusters",
+      "artist": "Ray Parker Jr.",
+      "search": "Ray Parker Jr. Ghostbusters",
+      "platform": "tiktok",
+      "direction": "fading",
+      "energy": "high",
+      "mood": [
+        "halloween",
+        "funk",
+        "retro"
+      ],
+      "suits": "Retro funk-pop film theme.",
+      "licence": "platform",
+      "notes": "#5 and marked New on Tokchart worldwide songs (2 Nov); Metricool (2 Nov) names it among Halloween sounds losing ground. Two sources; seasonal, expect a drop."
+    },
+    {
+      "title": "Halloween ・ cute horror song",
+      "artist": "PeriTune",
+      "search": "PeriTune Halloween ・ cute horror song",
+      "platform": "tiktok",
+      "direction": "fading",
+      "energy": "medium",
+      "mood": [
+        "halloween",
+        "quirky",
+        "instrumental"
+      ],
+      "suits": "Quirky, cute-spooky instrumental.",
+      "licence": "platform",
+      "notes": "#1 on Tokchart's worldwide sounds chart (2 Nov), but absent from the 5 Nov homepage top five. Halloween has passed; single publisher."
+    },
+    {
+      "title": "Halloween Mashup",
+      "artist": "917Josh",
+      "search": "917Josh Halloween Mashup",
+      "platform": "tiktok",
+      "direction": "fading",
+      "energy": "high",
+      "mood": [
+        "halloween",
+        "mashup",
+        "party"
+      ],
+      "suits": "Party mashup of Halloween songs.",
+      "licence": "platform",
+      "notes": "#3 on Tokchart UK (1 Nov) at about +18.9K videos a day. Single publisher; Halloween-linked, likely falling away now."
+    },
+    {
+      "title": "Guzarish",
+      "artist": "Satinder Sartaaj",
+      "search": "Satinder Sartaaj Guzarish",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "low",
+      "mood": [
+        "punjabi",
+        "romantic",
+        "melodic"
+      ],
+      "suits": "Melodic Punjabi pop song.",
+      "licence": "platform",
+      "notes": "#6 on Tokchart's worldwide songs chart (2 Nov), down from #2 (29 Oct). Single source, no count."
+    },
+    {
+      "title": "Bonito, Bonito",
+      "artist": "Thiago Navarro Music",
+      "search": "Thiago Navarro Music Bonito, Bonito",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "medium",
+      "mood": [
+        "latin pop",
+        "sunny",
+        "upbeat"
+      ],
+      "suits": "Sunny Spanish-language pop track.",
+      "licence": "platform",
+      "notes": "#8 on Tokchart's worldwide songs chart (2 Nov), down from #3 (29 Oct). Single source, no count."
+    },
+    {
+      "title": "Everlong",
+      "artist": "Foo Fighters",
+      "search": "Foo Fighters Everlong",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 123000,
+      "energy": "high",
+      "mood": [
+        "rock",
+        "driving",
+        "anthemic"
+      ],
+      "suits": "Driving, slow-building rock anthem.",
+      "licence": "platform",
+      "notes": "About 123K Reels (Rising) on SocialPilot Reels (31 Oct–10 Nov). Single source; list unchanged since last run."
+    },
+    {
+      "title": "Linger",
+      "artist": "The Cranberries",
+      "search": "The Cranberries Linger",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 117000,
+      "energy": "low",
+      "mood": [
+        "alt rock",
+        "wistful",
+        "90s"
+      ],
+      "suits": "Wistful 90s alternative rock ballad.",
+      "licence": "platform",
+      "notes": "About 117K Reels (Rising) on SocialPilot Reels (31 Oct–10 Nov). Single source."
+    },
+    {
+      "title": "Sunshine (Instrumental)",
+      "artist": "Twista",
+      "search": "Twista Sunshine (Instrumental)",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 202000,
+      "energy": "medium",
+      "mood": [
+        "hip-hop",
+        "instrumental",
+        "sunny"
+      ],
+      "suits": "Sunny, lyric-free hip-hop instrumental.",
+      "licence": "platform",
+      "notes": "About 202K Reels (Rising) on SocialPilot Reels (31 Oct–10 Nov). Single source."
+    },
+    {
+      "title": "Hold On, We're Going Home",
+      "artist": "Drake, Majid Jordan",
+      "search": "Drake, Majid Jordan Hold On, We're Going Home",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 66000,
+      "energy": "medium",
+      "mood": [
+        "r&b",
+        "smooth",
+        "nostalgic"
+      ],
+      "suits": "Smooth, nostalgic R&B-pop track.",
+      "licence": "platform",
+      "notes": "About 66K Reels (Rising) on SocialPilot Reels (31 Oct–10 Nov). Single source."
+    },
+    {
+      "title": "Blue Moon",
+      "artist": "Zara Larsson",
+      "search": "Zara Larsson Blue Moon",
+      "platform": "reels",
+      "direction": "rising",
+      "uses": 63000,
+      "energy": "high",
+      "mood": [
+        "pop",
+        "glossy",
+        "upbeat"
+      ],
+      "suits": "Glossy, upbeat pop single.",
+      "licence": "platform",
+      "notes": "About 63K Reels (Rising) on SocialPilot Reels (31 Oct–10 Nov). Single fresh source."
+    },
+    {
+      "title": "WINDOWS IN BRAZIL (Sped Up)",
+      "artist": "VHM4D, ahh",
+      "search": "VHM4D, ahh WINDOWS IN BRAZIL (Sped Up)",
+      "platform": "reels",
+      "direction": "rising",
+      "energy": "high",
+      "mood": [
+        "sped up",
+        "electronic",
+        "bouncy"
+      ],
+      "suits": "Sped-up electronic track with a bouncy rhythm.",
+      "licence": "platform",
+      "notes": "On Buffer's November Instagram list (3 Nov). Single source, no count; back since 29 Oct."
+    },
+    {
+      "title": "My Own Universe",
+      "artist": "PattiJ North",
+      "search": "PattiJ North My Own Universe",
+      "platform": "reels",
+      "direction": "rising",
+      "energy": "medium",
+      "mood": [
+        "pop",
+        "dreamy",
+        "uplifting"
+      ],
+      "suits": "Dreamy, uplifting pop track.",
+      "licence": "platform",
+      "notes": "On Buffer's November Instagram list (3 Nov). Single source, no count; back since 29 Oct."
+    },
+    {
+      "title": "Thin Ice",
+      "artist": "Megan Thee Stallion",
+      "search": "Megan Thee Stallion Thin Ice",
+      "platform": "tiktok",
+      "direction": "rising",
+      "uses": 1200,
+      "energy": "high",
+      "mood": [
+        "rap",
+        "cold",
+        "confident"
+      ],
+      "suits": "Cold, confident rap single.",
+      "licence": "platform",
+      "notes": "About 1.2K videos (Early) on SocialPilot TikTok (27 Oct–5 Nov). Single source, small count."
+    },
+    {
+      "title": "Sunset in Girona",
+      "artist": "Noah Preminger & Max Light",
+      "search": "Noah Preminger & Max Light Sunset in Girona",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "low",
+      "mood": [
+        "jazz",
+        "smooth",
+        "instrumental"
+      ],
+      "suits": "Smooth jazz instrumental.",
+      "licence": "platform",
+      "notes": "#1 on Metricool's global TikTok chart (2 Nov) per one search extract. Single chart, global listing, no count."
+    },
+    {
+      "title": "Time Back",
+      "artist": "Sinny & 7vvch",
+      "search": "Sinny & 7vvch Time Back",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "medium",
+      "mood": [
+        "electronic",
+        "melodic",
+        "instrumental"
+      ],
+      "suits": "Melodic electronic track.",
+      "licence": "platform",
+      "notes": "On Metricool's global TikTok chart (2 Nov, via search extracts), position not shown. Single chart, no count."
+    },
+    {
+      "title": "Espresso Soul",
+      "artist": "Edivieira",
+      "search": "Edivieira Espresso Soul",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "low",
+      "mood": [
+        "jazz",
+        "coffeehouse",
+        "instrumental"
+      ],
+      "suits": "Warm coffeehouse jazz instrumental.",
+      "licence": "platform",
+      "notes": "On Metricool's global TikTok chart (2 Nov, via search extracts), and on Metricool's UK list (28 Oct). Single publisher, no count."
+    },
+    {
+      "title": "V-Cut",
+      "artist": "Ghetto Baby Boom",
+      "search": "Ghetto Baby Boom V-Cut",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "high",
+      "mood": [
+        "rap",
+        "hard-hitting",
+        "bass"
+      ],
+      "suits": "Hard-hitting rap track.",
+      "licence": "platform",
+      "notes": "#10 on Metricool's global TikTok chart (2 Nov, via search extracts). Single chart, no count."
+    },
+    {
+      "title": "Final Game Showdown",
+      "artist": "ProdByLucK",
+      "search": "ProdByLucK Final Game Showdown",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "high",
+      "mood": [
+        "cinematic",
+        "epic",
+        "instrumental"
+      ],
+      "suits": "Epic, cinematic instrumental.",
+      "licence": "platform",
+      "notes": "On Metricool's global TikTok chart (2 Nov, via search extracts). Single chart, no count."
+    },
+    {
+      "title": "Self Aware",
+      "artist": "Mark Allan Wolfe",
+      "search": "Mark Allan Wolfe Self Aware",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "medium",
+      "mood": [
+        "electronic",
+        "instrumental",
+        "modern"
+      ],
+      "suits": "Modern instrumental production track.",
+      "licence": "platform",
+      "notes": "On Metricool's global TikTok chart (2 Nov, via search extracts). Single chart, no count."
+    },
+    {
+      "title": "Mere Wax",
+      "artist": "DJ BAI",
+      "search": "DJ BAI Mere Wax",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "medium",
+      "mood": [
+        "electronic",
+        "instrumental",
+        "background"
+      ],
+      "suits": "Instrumental electronic background track.",
+      "licence": "platform",
+      "notes": "#1 on Metricool's UK TikTok top 10 for 28 Oct (via search extracts; one of the page's two UK lists, and no newer UK list surfaced). Single chart, no count."
+    },
+    {
+      "title": "Mint Breeze",
+      "artist": "RITA",
+      "search": "RITA Mint Breeze",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "low",
+      "mood": [
+        "chill",
+        "instrumental",
+        "light"
+      ],
+      "suits": "Light, breezy instrumental.",
+      "licence": "platform",
+      "notes": "Named in Metricool's UK TikTok top 10 for 28 Oct (via search extracts; position not shown, one of the page's two UK lists). Single, hedged source."
+    },
+    {
+      "title": "Ain't It Fun",
+      "artist": "Paramore",
+      "search": "Paramore Ain't It Fun",
+      "platform": "tiktok",
+      "direction": "peaking",
+      "energy": "high",
+      "mood": [
+        "pop rock",
+        "upbeat",
+        "sarcastic"
+      ],
+      "suits": "Upbeat pop-rock song with a sarcastic edge.",
+      "licence": "platform",
+      "notes": "On Metricool's UK TikTok top 10 for 28 Oct (via search extracts; #10 per last run, one of the page's two UK lists). Single chart, no count."
+    }
+  ]
+}
